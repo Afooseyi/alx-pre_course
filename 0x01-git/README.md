@@ -1,1 +1,1 @@
-my name is seyi, i am a programmer
+My first readme
